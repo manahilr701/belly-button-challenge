@@ -43,7 +43,7 @@ The dataset used in this project is sourced from [Belly Button Biodiversity Data
         |-- js/
             |-- app.js           # JavaScript file containing the logic for data fetching and chart building
     |-- README.md                # Project documentation
-
+` ``` `
 ## How to Run Locally
 Follow these steps to run the project locally on your computer:
 
