@@ -11,7 +11,7 @@ Using the D3.js and Plotly.js libraries, this dashboard allows users to explore 
 - Showing a bubble chart with the distribution of all OTUs found in the sample.
 
 ## Live Demo
-You can view the deployed app [here](https://manahilr701.github.io/belly-button-challenge).
+You can view the deployed app [here](http://127.0.0.1:5500/index.html).
 
 ## Features
 - **Dropdown menu**: Allows the user to select a test subject ID to explore.
