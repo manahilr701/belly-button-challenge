@@ -71,7 +71,8 @@ This project is deployed using **GitHub Pages**. You can view the live version [
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview](<img width="1440" alt="Screenshot 2024-09-26 at 2 50 04 PM" src="https://github.com/user-attachments/assets/f9cffbcc-1dba-48f9-a2eb-42332afedca0">)
+![Dashboard Overview]<img width="1440" alt="Screenshot 2024-09-26 at 2 50 04 PM" src="https://github.com/user-attachments/assets/0f5de57c-17d5-47dc-b739-407b7efc792c">
+
 
 ### Bar Chart
 Displays the top 10 bacteria cultures found for the selected individual.
