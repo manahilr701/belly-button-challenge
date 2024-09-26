@@ -43,18 +43,19 @@ The dataset used in this project is sourced from [Belly Button Biodiversity Data
         |-- js/
             |-- app.js           # JavaScript file containing the logic for data fetching and chart building
     |-- README.md                # Project documentation
-` ``` `
+```
+
 ## How to Run Locally
 Follow these steps to run the project locally on your computer:
 
 ### Clone the repository:
 ```bash
 git clone https://github.com/manahilr701/belly-button-challenge.git
-
+```
 ### Navigate into the project directory:
 ```bash
 cd belly-button-challenge
-
+```
 ### Open `index.html` in your browser:
 Open the `index.html` file directly in your web browser by either double-clicking the file or using a live server extension in a code editor like Visual Studio Code.
 
