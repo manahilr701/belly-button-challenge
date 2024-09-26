@@ -60,7 +60,7 @@ cd belly-button-challenge
 Open the `index.html` file directly in your web browser by either double-clicking the file or using a live server extension in a code editor like Visual Studio Code.
 
 ## Deployment
-This project is deployed using **GitHub Pages**. You can view the live version [here](https://manahilr701.github.io/belly-button-challenge/).
+This project is deployed using **GitHub Pages**. You can view the live version [here](http://127.0.0.1:5500/index.html).
 
 ### Steps to Deploy on GitHub Pages:
 1. Commit and push all changes to your GitHub repository.
@@ -71,7 +71,8 @@ This project is deployed using **GitHub Pages**. You can view the live version [
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview]<img width="1440" alt="Screenshot 2024-09-26 at 2 50 04 PM" src="https://github.com/user-attachments/assets/0f5de57c-17d5-47dc-b739-407b7efc792c">
+![Dashboard Overview]<img width="926" alt="Screenshot 2024-09-26 at 3 11 10 PM" src="https://github.com/user-attachments/assets/557ec5b8-f4fc-413a-be24-8361bd47bc02">
+
 
 
 ### Bar Chart
